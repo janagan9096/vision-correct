@@ -1,0 +1,1 @@
+print("janagan" * 3)
